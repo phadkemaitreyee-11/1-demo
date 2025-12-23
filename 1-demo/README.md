@@ -1,5 +1,6 @@
 # 1-demo
 This is my first Git Repository.
 <br>
-Author - Maitreyee Phadke new
+Author - Maitreyee Phadke edited
+
 
